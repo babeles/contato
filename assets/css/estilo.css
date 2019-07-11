@@ -1,0 +1,21 @@
+body {
+    background-color:#e2e2e2;
+    font-family: 'Lato';
+}
+
+h1 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+th {
+    text-align: center;
+}
+
+table {
+    margin-bottom: 15px;
+}
+
+p {
+    text-align: center;
+}
